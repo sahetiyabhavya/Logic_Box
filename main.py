@@ -1,9 +1,9 @@
-print("Welcome To Pattan And RangeData")
+print("Welcome To Pattern And RangeData")
 
 while True:
   
     print("Select An Option ")
-    print("1. For Pattan ")
+    print("1. For Pattern ")
     print("2. For Rangedata ")
     print("3. For Exit")
     
@@ -31,6 +31,6 @@ while True:
         
         
     elif choice==3:
-        print("Thank You For Using Pattan And Rangedata Game ")
+        print("Thank You For Using pattern And Rangedata Game ")
         break
     
